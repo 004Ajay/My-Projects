@@ -10,9 +10,11 @@
 
 * [BTech Seminar](https://github.com/004Ajay/Seminar-GAN)
   
+* [Certificate Generator With GUI in Python](https://github.com/004Ajay/GUI_Certificate_Generator)
+
 * [DBMS Quiz Application](https://github.com/004Ajay/Quiz-App-DBMS-Project)
   
-* [Certificate Generator With GUI in Python](https://github.com/004Ajay/GUI_Certificate_Generator)
+* [Emotion2Emoji](https://github.com/004Ajay/Emotion2Emoji)
 
 ---
 
